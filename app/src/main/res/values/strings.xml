@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Technical-Assessment-Option1</string>
+    <string name="movies_db">The Movies DB</string>
 </resources>
